@@ -1,1 +1,1 @@
-# git-workflow-practice
+# git-workflow-practiceChangelog: minor copy tweaks
